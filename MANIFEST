@@ -2,6 +2,5 @@ Changes
 Makefile.PL
 MANIFEST
 README
-t/Bundle-Alphamail.t
 lib/Bundle/Alphamail.pm
 META.yml                                 Module meta-data (added by MakeMaker)

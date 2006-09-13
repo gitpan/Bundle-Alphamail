@@ -1,6 +1,7 @@
 Revision history for Perl extension Bundle::Alphamail.
 
-0.01  Thu Feb  2 13:46:48 2006
-	- original version; created by h2xs 1.23 with options
-		-AXcfn Bundle::Alphamail
+0.02  Wed Sep 13 12:54:46 2006
+   - Updated dependencies, and added a bit of documentation
 
+0.01  Wed Mar 10 11:42:12 2006
+	- original version
