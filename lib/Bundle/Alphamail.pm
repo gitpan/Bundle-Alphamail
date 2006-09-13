@@ -1,6 +1,6 @@
 package Bundle::Alphamail;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 1;
 __END__
@@ -28,7 +28,6 @@ Digest::MD5 2
 Email::Address 1.8
 Email::Date 1.03
 GD::Graph 1.43
-HTML::Mason 1.3
 HTML::Parser 3.45
 HTTP::Cookies 1.39
 Log::Log4perl 0.47
@@ -46,6 +45,7 @@ Time::HiRes 1.59
 Unicode::Collate 0.52
 Unicode::String 2.0
 WWW::Mechanize 1.15
+HTML::Mason 1.3
 
 =head1 DESCRIPTION
 
